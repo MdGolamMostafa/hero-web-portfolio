@@ -18,7 +18,7 @@ const Experiences = () => {
                 </p>
             </div>
 
-        </section>
+        </section> 
         <footer className = "text-center">@ 2021 Hero All Rights Reserved</footer>
         </>
     );
